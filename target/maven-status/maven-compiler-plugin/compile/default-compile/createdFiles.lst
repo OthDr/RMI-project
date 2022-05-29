@@ -1,0 +1,3 @@
+Interfaces\IApp.class
+Server\ServerRMI.class
+Server\Chat.class
